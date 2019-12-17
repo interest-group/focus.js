@@ -35,4 +35,4 @@ Vue UI组件库
 
 ** 每一位程序员，都值得被尊敬。 **
 
-![](./images/QR.gif)
+![](./images/QR.png)
